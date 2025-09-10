@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a0c3d32abf34a354dbeef7f2b9ed66eb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 145808
+  packageName: Terrain Sample Asset Pack
+  packageVersion: 2.0.1
+  assetPath: Assets/TerrainSampleAssets/Materials/Grass.asset
+  uploadId: 511657
